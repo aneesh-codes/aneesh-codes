@@ -23,7 +23,7 @@
 ---
 
 🔗 Connect with Me
-<p align="left"> <a href="https://linkedin.com/in/aneesh123" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /> </a> <a href="https://anish-timalsina.com.np/" target="_blank"> <img src="https://img.shields.io/badge/-Campus Capsule-000000?style=flat&logo=google-chrome&logoColor=white" /> </a> <a href="https://www.instagram.com/ansh.innovate/" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /> </a> </p>
+<p align="left"> <a href="https://linkedin.com/in/aneesh123" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /> </a> <a href="https://anish-timalsina.com.np/" target="_blank"> <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=google-chrome&logoColor=white" /> </a> <a href="https://www.instagram.com/ansh.innovate/" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /> </a> </p>
 
 <!--
 **aneesh-codes/aneesh-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
