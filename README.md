@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Anish</h1>
-<h3 align="center">Curious builder of academic-tech platforms</h3>
+<h3 align="center">A tech enthusiastic</h3>
 
 - 🔭 I’m currently working on [Campus Capsule](https://campuscapsule.tech)
 - 🌱 I’m learning SEO, AdSense compliance, and branding workflows
-- 👯 I’m collaborating with creators like Ujjwal Neupane in DataAnalytics 
-- 💬 Ask me about WordPress, schema markup, or ORCID integration
+- 👯 I’m collaborating with different creators in DA/DS. 
+- 💬 Ask me about WordPress, Data Analytics & UI/UX.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aneesh123/) | 
 - ⚡ Fun fact: I love optimizing systems for clarity, credibility, and scalability
 
