@@ -13,15 +13,15 @@
 ## Tech Stack 🚀 
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" height="60"/>
-  <img src="https://img.shields.io/badge/-Jupyter Notebook-F37626?style=flat&logo=jupyter&logoColor=white" height="60"/>
-  <img src="https://img.shields.io/badge/-Data Analytics-0064a5?style=flat&logo=google-analytics&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/-Tailwind CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="60"/>
 </p>
+
 
 ---
 
