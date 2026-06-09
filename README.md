@@ -13,8 +13,8 @@
 ## Tech Stack 🚀 
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/-Jupyter Notebook-F37626?style=flat&logo=jupyter&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" height="60"/>
+  <img src="https://img.shields.io/badge/-Jupyter Notebook-F37626?style=flat&logo=jupyter&logoColor=white" height="60"/>
   <img src="https://img.shields.io/badge/-Data Analytics-0064a5?style=flat&logo=google-analytics&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white" height="40"/>
