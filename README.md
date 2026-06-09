@@ -10,17 +10,17 @@
 
 ---
 
-## 🚀 Tools I Use
+## Tech Stack 🚀 
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Jupyter Notebook-F37626?style=flat&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Data Analytics-0064a5?style=flat&logo=google-analytics&logoColor=white" />
-  <img src="https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Tailwind CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/-Jupyter Notebook-F37626?style=flat&logo=jupyter&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/-Data Analytics-0064a5?style=flat&logo=google-analytics&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/-Tailwind CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" height="40"/>
 </p>
 
 ---
