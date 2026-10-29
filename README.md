@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anish</h1>
 <h3 align="center">A tech enthusiastic</h3>
 
-- 🔭 I’m currently working on [Campus Capsule](https://campuscapsule.tech)
+- 🔭 I’m working on [Campus Capsule](https://campuscapsule.tech)
 - 🌱 I’m learning SEO, AdSense compliance, and branding workflows
 - 👯 I’m collaborating with different creators in DA/DS. 
 - 💬 Ask me about WordPress, Data Analytics & UI/UX.
